@@ -1,0 +1,15 @@
+*.db
+*.opendb
+*.exe
+*.exp
+*.ilk
+*.ilb
+*.pdb
+*.user
+*.vcxproj
+*.tlog
+*.log
+*.cache
+*.obj
+*.deps
+*.vs
