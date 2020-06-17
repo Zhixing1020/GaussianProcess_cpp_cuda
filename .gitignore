@@ -4,6 +4,7 @@
 *.exp
 *.ilk
 *.ilb
+*.lib
 *.pdb
 *.user
 *.vcxproj
@@ -13,3 +14,4 @@
 *.obj
 *.deps
 *.vs
+.gitignore.txt
